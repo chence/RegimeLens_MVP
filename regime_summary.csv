@@ -1,0 +1,4 @@
+Cluster,Return,Volatility20,RSI14,Close_vs_MA20,Adjusted,Count,RegimeName,Explanation
+0,0.0043976560816841245,0.20192280029174378,68.77836495044015,0.03095971180646351,112.8074422763158,228,Bullish Trend,Positive returns with price above MA20 and stronger RSI suggest an upward trend.
+1,-0.006439435140520426,0.21311136721956403,36.08425085873875,-0.02921707660826603,108.77424134170853,199,Weak / Bearish,Weaker returns and lower relative price vs. MA20 suggest softer or bearish conditions.
+2,0.007715277844748022,0.386612050482723,47.301789347235164,-0.006768083159006592,102.8885473559322,59,Volatile Transition,Highest volatility cluster; conditions change quickly and momentum is mixed.
